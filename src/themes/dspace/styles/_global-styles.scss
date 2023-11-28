@@ -3,6 +3,18 @@
 // imports the base global style
 @import '../../../styles/_global-styles.scss';
 
+a {
+    color: #003f7f;
+    text-decoration: none;
+    background-color: #0000;
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #003f7f;
+    text-decoration: none;
+}
+
 .facet-filter, .setting-option {
   background-color: var(--bs-light);
   border-radius: var(--bs-border-radius);
