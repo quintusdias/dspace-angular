@@ -6,6 +6,12 @@
   --ds-banner-background-gradient-width: 300px;
   --ds-home-news-link-color: #{$green};
   --ds-home-news-link-hover-color: #{darken($green, 15%)};
-  --ds-header-navbar-border-bottom-color: #{$green};
+  --ds-navbar-link-color: #003f7f;
+  --ds-navbar-link-hover-color: #001daf;
+  --ds-header-navbar-border-bottom-color: #aab8c6;
+  --ds-header-icon-color: #003f7f;
+  --ds-breadcrumb-link-color: #003f7f;
+  --ds-breadcrumb-link-active-color: #001daf;
+  --ds-footer-bg: #76848f;
 }
 
